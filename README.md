@@ -23,4 +23,6 @@ Fill up the details indicated by the commets in the script and make sure to test
 
 ## Links:
 
-Web Driver Links : https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+1. Web Driver Links : https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+2. Python : https://www.python.org/downloads/
+3. Selenium : https://pypi.org/project/selenium/
