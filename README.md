@@ -2,7 +2,7 @@
 
 ### Built using Python and Selenium
 
-## Note : This Script were last updated on Aug 2021. So you might have to update the URLs and xpath in the scrpts.
+## Note : These Scripts were last updated on Aug 2021. So you might have to update the URLs and xpath in the scrpts.
 
 **Playstation 5 is available online in India via bleow sites:**
 
