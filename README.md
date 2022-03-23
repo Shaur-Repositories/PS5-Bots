@@ -1,4 +1,4 @@
-# playstation 5 Bots for India
+# Playstation 5 Bots for India
 
 ### Built using Python and Selenium
 
